@@ -1,31 +1,3 @@
-/* function abbrevName(firstName, lastName){
-    const initials = firstName[0].toUpperCase() + "." + lastName[0].toUpperCase()
-    console.log (initials)
-    }
-  abbrevName('alexander', 'kovalenko')
-
-
-  function past(h, m, s){
-    let time = h*3600000 + m*60000 + s*1000
-    console.log(time)
-  }
-
- past(23, 59, 59);
-
- function openOrSenior(data){
-  const emptyArray = []
-  for(i = 0; i < data.length; i++) {
-    if(data[i][0] >= 55 && data[i][1] > 7) {
-      emptyArray.push('Senior')
-    }
-    else {
-      emptyArray.push('Open')
-    }
-  }
-  return emptyArray
-}
-
-console.log(openOrSenior([[25, 8]])) */
 
 let map;
 
